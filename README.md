@@ -9,6 +9,9 @@ Aprenda HTML5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo pa
 [GoogleFonts](https://fonts.google.com/)
 ### Imagens
 [Pixabay](https://pixabay.com/)
+
 [Icon-icons](https://icon-icons.com/pt/)
+
 [IconFinder](https://iconfinder.com/)
+
 [Optmizilla](https://imagecompressor.com/pt/)
