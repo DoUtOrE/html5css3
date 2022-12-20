@@ -15,3 +15,4 @@ Aprenda HTML5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo pa
 [IconFinder](https://iconfinder.com/)
 
 [Optmizilla](https://imagecompressor.com/pt/)
+
